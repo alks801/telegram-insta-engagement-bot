@@ -1,0 +1,12 @@
+{
+    "name": "instagram-engagement-bot",
+    "version": "0.0.0",
+    "description": "InstagramEngagementBot",
+    "main": "app.js",
+    "author": {
+        "name": "sn0wil"
+    },
+    "dependencies": {
+        "node-telegram-bot-api": "^0.29.0"
+    }
+}
