@@ -10,7 +10,7 @@ We have group chat with people and bot;
 
 Like time contains 3 parts (prepare, collecting, round):
 1) **Prepare.** (20mins) 
-Bots says: "Next round starts in 20 minutes, please get ready to submit your account name. Do not post your username until I’ve said to or else you’ll miss the round".
+Bot says: "Next round starts in 20 minutes, please get ready to submit your account name. Do not post your username until I’ve said to or else you’ll miss the round".
 2) **Collecting.** (90mins) 
 Bot says: "Comment your Instagram @accountname now to get added to the next engagement round".
 People start write their @username from instagram.
@@ -29,7 +29,7 @@ All @username - link, that redirect directly to instagramm.
 
 Bot will run 3 times in a day.
 
-There is screens with work(On screens I didn't wait 90, 20 and 60 minutes :D) :
+There are screens with work(On screens I didn't wait 90, 20 and 60 minutes :D) :
 
 ![fisrt](https://image.ibb.co/mfb4i6/11111.png)
 ![second](https://image.ibb.co/nNQYAm/44444.png)
