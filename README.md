@@ -3,7 +3,12 @@
 This bot should work in group chats.
 The main functionality is mutual likes.
 
-Common Description.
+### UPD. Version 0.1
+Now it's update up to 0.1 version. As you can see now there are separated modules: bot-proxy, engagementManager, helpers and constants.
+All code is really clearer and easier to understand (with comments ha-ha).
+In index.js file all start with debug mode. Good luck and let's see you all in next versions! :)
+
+Common Description. (Old, but more or less actual)
 --------------------
 
 We have group chat with people and bot;
