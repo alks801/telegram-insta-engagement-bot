@@ -4,8 +4,9 @@ const { managerModes } = require('./constants');
 
 const token = '';
 const groupChatId = 'test';
+const groupChatId = '';
 
-const botProxy = new BotProxy(token, groupChatId);
+const botProxy = new BotProxy(token, groupChatId, true);
 
 const engagementManager = new EngagementManager(
     (text) => botProxy.sendMessageToGroup(text), //send to group
@@ -22,7 +23,7 @@ botProxy.subscribeOnEvent('message', (msg) => {
 
 botProxy.onText(/\/chatId/, (msg) => {
     const chatId = msg.chat.id;
-    bot.sendMessage(chatId, 'chatId:' + chatId);
+    botProxy.sendMessage(chatId, 'chatId: ' + chatId);
 })
 
 engagementManager.start();
