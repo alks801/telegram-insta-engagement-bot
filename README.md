@@ -21,6 +21,10 @@ In index.js file all start with debug mode. Good luck and let's see you all in n
 
 **Note.** It wasn't tested in not debug mode! (with real timings).
 
+If you want to help me you could buy me a cup of tee :)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/snowil)
+
 Common Description. (Old, but more or less actual)
 --------------------
 
