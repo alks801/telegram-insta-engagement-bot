@@ -16,7 +16,7 @@ In index.js file all start with debug mode. Good luck and let's see you all in n
 1) Get your token from bot father.
 2) Put token into index.js.
 3) Run, add bot into group and send /chatId command messages to your bot.
-4) It will sen you back group chatId. Use it in index.js file
+4) It will send you back group chatId. Use it in index.js file
 5) Run in non Debug mode.
 
 **Note.** It wasn't tested in not debug mode! (with real timings).
